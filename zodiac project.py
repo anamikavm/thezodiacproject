@@ -29,7 +29,7 @@ def zodiac(birthdate_str):
         people's emotions and keep 'em rollin if you choose to. But healing others is what makes you, you. Don't let that die!""")
     elif (m == "Jul" and 23 <= d <= 31) or (m == "Aug" and 1 <= d <= 22):
         print("""Zodiac sign: \033[1mLeo\033[0m
-        You are the embodiment of leadership. A lion always rules the jungle! But don't be swept by your ego and fire, as it can pull
+        You are the embodiment of leadership. A lion always rules the jungle! But don't be swept by your ego and fire, as it can push
         all your loved ones away from you. You are the spotlight anywhere you go and are more steady in your stance, so nobody pushes
         your buttons. Have gratitude, and there's no stopping your aura! Too magnetic and loyal!""")
     elif (m == "Aug" and 23 <= d <= 31) or (m == "Sep" and 1 <= d <= 22):
@@ -56,7 +56,7 @@ def zodiac(birthdate_str):
     elif (m == "Dec" and 22 <= d <= 31) or (m == "Jan" and 1 <= d <= 20):
         print("""Zodiac sign: \033[1mCapricorn\033[0m
         You are the embodiment of Ambition, earth sign. Characterized by a hardworking, pragmatic nature focused on achieving goals through perseverance 
-        and dedication, you are an authority!You can be too focused on achieving that, and you may be behind your emotions. It is very
+        and dedication, you are an authority! You can be too focused on achieving that, and you may be behind on working out your emotions. It is 
         important to understand and release emotions and be just as vulnerable as your dedication to your work. Be soft and you'll transcend boundaries!""")
     elif (m == "Jan" and 21 <= d <= 31) or (m == "Feb" and 1 <= d <= 18):
         print("""Zodiac sign: \033[1mAquarius\033[0m
